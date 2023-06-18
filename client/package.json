@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "app": "node client.js"
+  },
+  "dependencies": {
+    "ws": "^1.0.31"
+  }
+}
